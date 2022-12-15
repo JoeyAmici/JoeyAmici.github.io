@@ -31,7 +31,7 @@ I used to code before I knew about [Github](http://github.com).
 Lab 12 was THE hardest lab I had done so far in CPSC 120L. The code was overwelming. It took me hours upon hours to figure it out at home.
 I was finally able to figure it out when I asked what was wrong with my code.
 
-### What I will do with this page
+### What I will do with this page(https://github.com/JoeyAmici/JoeyAmici.github.io)
 
 This page will be updated even after I leave CPSC 120L. I want to build this portfolio so when people ask for projects I have done in the past.
 I can send them this page.
