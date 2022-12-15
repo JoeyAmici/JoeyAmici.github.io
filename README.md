@@ -1,6 +1,3 @@
-# JoeyAmici.github.io
-My collection of work
-
 # Joey Amicis portfolio
 
 Hello, My name is Joey Amici and I am a full-time student at
